@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: smiles-poc-dev-teste 
+  description: A description for teste
+  owner: team-a
+spec:
+  type: service
+  lifecycle: production
+  owner: team-a
